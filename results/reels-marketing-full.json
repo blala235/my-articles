@@ -1,0 +1,9 @@
+{
+  "job_id": "reels-marketing-full",
+  "images": [
+    {"role": "featured_image", "url": "file://montdata/a_cozy_well_lit_indoor_workspace_scene_with_a-mot.png"},
+    {"role": "sub_image_1", "url": "file://mnt/data/a_warm_well_lit_study_desk_scene_with_a_to-do_list.png"},
+    {"role": "sub_image_2", "url": "file://montdata/a_cozy_well_lit_indoor_workspace_scene_a_close_t.png"}
+  ],
+  "status": "completed"
+}
