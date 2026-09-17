@@ -1,0 +1,17 @@
+{
+  "id": "job-002",
+  "created_at": "2026-09-17",
+  "title": "دليلك الشامل للأمن الرقمي وحماية الشبكات في 2026",
+  "target": "khatwatuk.com",
+  "tasks": [
+    "كتابة مقدمة قوية ومختصرة و3 نقاط سيو أساسية للمقال",
+    "صياغة مشهد بصري فائق الدقة (Cybersecurity & Network Defense) لأحدث غرف حماية البيانات بدون أي نصوص أو كتابات نهائياً",
+    "توليد الصورة بواسطة DALL-E 3",
+    "استخدام كود بايثون لتحويل الصورة المولدة إلى Base64 ورفعها إلى results/job-002.png",
+    "رفع ملف بيانات المقال إلى results/job-002.json"
+  ],
+  "dalle_spec": {
+    "aspect_ratio": "16:9",
+    "prompt_guide": "Futuristic high-tech cybersecurity command center, glowing digital holographic shield defending network nodes, deep blue and emerald green ambient lighting, cinematic, photorealistic, 8k, strictly zero text, zero typography"
+  }
+}
