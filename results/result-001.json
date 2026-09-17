@@ -1,0 +1,22 @@
+{
+  "job_id": "job-001",
+  "task_type": "image-analysis",
+  "status": "completed",
+  "created_at": "2026-09-17",
+  "title": "مظب�لال التداول والذكاء الاصطناعي في 2026",
+  "target": "khatwatuk.com",
+  "extracted_key_points": [
+    "تحليل الفكرة واستخراج للمقال مالروة",
+    "ريهابة موال برومبت صورة رئيسية لمشهد",
+    "اللالناباد في results/result-001.json عبر GitHub Action"
+  ],
+  "image": {
+    "aspect_ratio": "16:9",
+    "style": "Photorealistic, cinematic lighting, modern trading office with glowing holographic charts",
+    "no_text": true,
+    "no_watermark": true,
+    "generation_id": "6cc693a9-187e-4b43-8d5f-f927d08ab6bd",
+    "file": "sandbox:/mnt/data/a_wide_clean_screenshot_style_composite_image_sho.png"
+  },
+  "notes": "V1uct and prompt created based on job-001. The generated visual avoids text and watermarks."
+}
