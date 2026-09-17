@@ -1,0 +1,31 @@
+{
+  "job_id": "reels-marketing-full",
+  "title": "دليل استخدام ريلز انستقرام للتسويق 2026: استراتيجية غير تقليدية لتحويل المشاهدات إلى مبيعات",
+  "target_website": "khatwatuk.com",
+  "article_text": "# دليل استخدام ريلز انستقرام للتسويق 2026: استراتيجية غير تقليدية لتحويل المشاهدات إلى مبيعات\n\nفي عام 2026، لم يعد مقياس النجاح في التسويق عبر ريلز انستقرام (Instagram Reels) هو تحقيق ملايين المشاهدات السطحية أو مطاردة التريندات العابرة، بل القدرة على تحويل تلك المشاهدات إلى عملاء فعليين ومبيعات حقيقية. \n\n## 1. هندسة الخطاف البصري (The 3-Second Visual Hook)\nخوارزميات انستقرام تعتمد بشكل حاسم على معدل الاحتفاظ بالمشاهدين (Retention Rate) في أول 3 ثوانٍ. إذا لم تقدم وعداً واضحاً أو تحل مشكلة فورية، فإن المشاهد سيتجاوز الفيديو فوراً.\n\n## 2. استراتيجية المحتوى القائم على حل المشكلات (Pain-Point Centric Content)\nالريلز الفعال لا يبيع المنتج مباشرة، بل يستعرض المشكلة الواقعية التي يواجهها العميل، ثم يقدم الحل كخطوة طبيعية، مما يبني الثقة السريعة قبل عرض أي سعر.\n\n## 3. مسار التحويل الذكي من المشاهدة إلى الشراء (Micro-Funnel Conversion)\nاستخدام أدوات الأتمتة والردود المباشرة (Direct Messaging Automation) لنقل المشاهد من مجرد التعليق على الريلز إلى رابط الشراء الفوري في الرسائل الخاصة دون تشتيت انتباهه.\n\n## 4. تحليل المؤشرات النوعية وليس الكمية (Qualitative Metrics)\nالتركيز على معدل الحفظ (Saves) ومعدل المشاركة (Shares) والنقرات على الروابط بدلاً من مجرد أرقام المشاهدات المجردة.",
+  "images_required": [
+    {
+      "role": "featured_image",
+      "placement": "الصورة الرئيسية للمقال (16:9)",
+      "prompt": "A high-end modern smartphone floating vertically displaying a viral Instagram Reel video with a live checkout overlay, surrounded by glowing 3D holographic sales charts, profit graphs, shopping bag icons, vibrant Instagram neon gradient lighting (magenta, violet, warm orange), photorealistic, 8k, cinematic, with discreet text \"khatwatuk.com\" in clean typography at the bottom corner."
+    },
+    {
+      "role": "sub_image_1",
+      "placement": "صورة داخلية لقسم الخطاف البصري وصناعة المحتوى (16:9)",
+      "prompt": "A modern high-tech digital content creator studio, professional cinema camera on a desk pointing at a glowing holographic timeline showing viewer retention spikes in the first 3 seconds, atmospheric ambient blue and purple lighting, photorealistic 8k, no text."
+    },
+    {
+      "role": "sub_image_2",
+      "placement": "صورة داخلية لقسم مسار تحويل المشاهدات إلى مبيعات (16:9)",
+      "prompt": "A futuristic 3D conceptual funnel illustration showing short video streams converting into glowing digital shopping carts and completed mobile checkouts, clean isometric technological aesthetic, emerald green and gold accents, ultra-detailed, no text."
+    }
+  ],
+  "output_requirements": {
+    "github_target_file": "results/reels-marketing-full.json",
+    "fields": [
+      "job_id",
+      "title",
+      "images"
+    ]
+  }
+}
