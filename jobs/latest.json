@@ -1,5 +1,18 @@
 {
-  "job_id": "linkedin-ads-investment-2026",
-  "title": "تكلفة الإعلان على لينكد إن 2026: دليل الاستثمار لا الإنفاق",
-  "dalle_prompt": "A professional, ultra-modern widescreen 16:9 featured cover image for a corporate B2B digital marketing article about LinkedIn Ads cost and ROI. In the center, a luxury executive workspace with a panoramic skyscraper city skyline background at twilight. Floating dynamically in mid-air are 3D holographic business analytics, rising corporate blue profit charts, golden investment growth graphs, and sleek B2B lead generation metrics. A modern laptop on a dark marble desk displays a high-tech LinkedIn Campaign Manager dashboard. Ambient lighting in corporate navy blue, crisp neon cyan, and subtle warm gold reflections. Typography overlay: Bold modern geometric Arabic typography prominently at the top: \"إعلانات لينكد إن 2026: استثمار ذكي أم إنفاق؟\" in glowing white and gold. At the bottom corner, crisp subtle branding text: \"khatwatuk.com | خطواتك\". Ultra-sharp photorealistic 8k, cinematic depth of field, executive aesthetic."
+  "job_id": "ecommerce-dropshipping-2026",
+  "title": "أفضل استراتيجيات التجارة الإلكترونية والدروب شيبنج 2026",
+  "images_count": 2,
+  "images": [
+    {
+      "position": "main",
+      "role": "الصورة الرئيسية للمقال (الغلاف)",
+      "dalle_prompt": "A futuristic, ultra-modern widescreen 16:9 featured cover image for an e-commerce and dropshipping article. In the center, a luxury glowing transparent 3D shopping cart filled with glowing digital parcels and golden credit cards floating above a sleek tablet displaying a live e-commerce dashboard with soaring green revenue charts. Background is a modern automated fulfillment center with aesthetic neon violet and cyber-teal lighting. Bold modern Arabic typography prominently at the top: 'التجارة الإلكترونية 2026: استراتيجيات مضاعفة المبيعات' in glowing white and gold. At the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k, cinematic lighting."
+    },
+    {
+      "position": "inline-1",
+      "role": "الصورة الفرعية الأولى (سلسلة التوريد)",
+      "dalle_prompt": "A high-tech 3D isometric illustration showing the complete automated dropshipping supply chain: from global supplier warehouse via automated high-speed logistics to customer doorstep, connected by glowing digital data streams and payment gateways. Clean tech aesthetic, emerald green and cyber blue ambient lighting. Typography overlay: 'سلسلة التوريد الذكية 2026: من المورد إلى العميل مباشرة' in clean modern Arabic font. 8k render, ultra-sharp."
+    }
+  ],
+  "dalle_prompt": "A futuristic, ultra-modern widescreen 16:9 featured cover image for an e-commerce and dropshipping article. In the center, a luxury glowing transparent 3D shopping cart filled with glowing digital parcels and golden credit cards floating above a sleek tablet displaying a live e-commerce dashboard with soaring green revenue charts. Background is a modern automated fulfillment center with aesthetic neon violet and cyber-teal lighting. Bold modern Arabic typography prominently at the top: 'التجارة الإلكترونية 2026: استراتيجيات مضاعفة المبيعات' in glowing white and gold. At the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k, cinematic lighting."
 }
