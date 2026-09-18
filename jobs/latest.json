@@ -1,18 +1,24 @@
 {
-  "job_id": "ecommerce-dropshipping-2026",
-  "title": "أفضل استراتيجيات التجارة الإلكترونية والدروب شيبنج 2026",
-  "images_count": 2,
+  "job_id": "local-seo-google-maps-2026",
+  "title": "السيو المحلي (Local SEO): دليلك الشامل لتصدر خرائط جوجل في 2026",
+  "article_id": "8810179559774420253",
+  "images_count": 3,
   "images": [
     {
       "position": "main",
-      "role": "الصورة الرئيسية للمقال (الغلاف)",
-      "dalle_prompt": "A futuristic, ultra-modern widescreen 16:9 featured cover image for an e-commerce and dropshipping article. In the center, a luxury glowing transparent 3D shopping cart filled with glowing digital parcels and golden credit cards floating above a sleek tablet displaying a live e-commerce dashboard with soaring green revenue charts. Background is a modern automated fulfillment center with aesthetic neon violet and cyber-teal lighting. Bold modern Arabic typography prominently at the top: 'التجارة الإلكترونية 2026: استراتيجيات مضاعفة المبيعات' in glowing white and gold. At the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k, cinematic lighting."
+      "role": "الغلاف الرئيسي للمقال (Featured Image - 16:9)",
+      "dalle_prompt": "A modern, cinematic 16:9 featured cover image for an in-depth guide on Local SEO and Google Maps optimization. In the center, a sleek floating 3D smartphone displays a vibrant Google Maps 3D navigation interface over a glowing futuristic smart city at twilight. A giant glowing golden-red map pin with a bright '#1' and 5 shining stars floats majestically above the main building. Radiant holographic GPS routing lines and green arrows stream from surrounding neighborhoods directly into the business entrance, representing high-converting local foot traffic. Elegant modern Arabic typography prominently integrated at the top in glowing white and brushed gold: 'السيو المحلي 2026: دليلك لتصدر خرائط جوجل'. In the bottom corner: 'khatwatuk.com | خطواتك'. Ultra photorealistic, 8k resolution, cinematic ambient neon lighting."
     },
     {
       "position": "inline-1",
-      "role": "الصورة الفرعية الأولى (سلسلة التوريد)",
-      "dalle_prompt": "A high-tech 3D isometric illustration showing the complete automated dropshipping supply chain: from global supplier warehouse via automated high-speed logistics to customer doorstep, connected by glowing digital data streams and payment gateways. Clean tech aesthetic, emerald green and cyber blue ambient lighting. Typography overlay: 'سلسلة التوريد الذكية 2026: من المورد إلى العميل مباشرة' in clean modern Arabic font. 8k render, ultra-sharp."
+      "role": "الصورة الفرعية الأولى (Google Business Profile & NAP Consistency)",
+      "dalle_prompt": "A high-tech 3D isometric composite illustration representing Google Business Profile optimization and local authority. In the foreground, a crystal-clear holographic dashboard displays a verified business profile badge with a glowing green checkmark, 5 gleaming golden review stars with '4.9 ★★★★★', and a breakdown chart of NAP consistency (Name, Address, Phone) glowing in teal and gold. Around the dashboard, glowing digital icons for phone calls, direction requests, and store visits surge with '+380% Growth'. Modern Arabic typography overlay at the top: 'Google Business Profile: أسرار التوثيق وقاعدة NAP' and subtle subtitle 'بناء الثقة وتصدر نتائج البحث المحلي'. Clean tech aesthetic, 8k render, professional branding: 'khatwatuk.com | خطواتك'."
+    },
+    {
+      "position": "inline-2",
+      "role": "الصورة الفرعية الثانية (Google Local 3-Pack Dominance)",
+      "dalle_prompt": "A sophisticated 3D visual representing ranking #1 in the Google Maps Local 3-Pack. A sleek illuminated futuristic podium with three levels; on the highest #1 podium stands a glowing modern store storefront with a shining golden championship badge and glowing GPS radar waves scanning the local map grid. Glowing digital shoppers with shopping bags happily walk along illuminated green pathways leading directly inside. Sleek modern Arabic typography at the top: 'حزمة الخرائط (Local 3-Pack): كيف تحتل المركز الأول؟'. Premium lighting with deep sapphire blue, neon emerald, and metallic gold accents. In the corner: 'khatwatuk.com | خطواتك'. 8k render, masterpiece."
     }
   ],
-  "dalle_prompt": "A futuristic, ultra-modern widescreen 16:9 featured cover image for an e-commerce and dropshipping article. In the center, a luxury glowing transparent 3D shopping cart filled with glowing digital parcels and golden credit cards floating above a sleek tablet displaying a live e-commerce dashboard with soaring green revenue charts. Background is a modern automated fulfillment center with aesthetic neon violet and cyber-teal lighting. Bold modern Arabic typography prominently at the top: 'التجارة الإلكترونية 2026: استراتيجيات مضاعفة المبيعات' in glowing white and gold. At the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k, cinematic lighting."
+  "dalle_prompt": "A modern, cinematic 16:9 featured cover image for an in-depth guide on Local SEO and Google Maps optimization. In the center, a sleek floating 3D smartphone displays a vibrant Google Maps 3D navigation interface over a glowing futuristic smart city at twilight. A giant glowing golden-red map pin with a bright '#1' and 5 shining stars floats majestically above the main building. Radiant holographic GPS routing lines and green arrows stream from surrounding neighborhoods directly into the business entrance, representing high-converting local foot traffic. Elegant modern Arabic typography prominently integrated at the top in glowing white and brushed gold: 'السيو المحلي 2026: دليلك لتصدر خرائط جوجل'. In the bottom corner: 'khatwatuk.com | خطواتك'. Ultra photorealistic, 8k resolution, cinematic ambient neon lighting."
 }
