@@ -1,19 +1,20 @@
 {
-  "job_id": "teal-vs-rezi-2026",
+  "job_id": "teal-vs-rezi-resume-builder-2026",
   "title": "Teal vs Rezi (2026): Which AI Resume Builder Gets You Hired?",
-  "target_country": "United States",
-  "focus_keyword": "teal vs rezi",
+  "post_id": "234878898188897961",
   "images_count": 2,
   "images": [
     {
       "position": "main",
-      "role": "Featured Cover Image (16:9)",
-      "dalle_prompt": "A modern, cinematic 16:9 featured cover image comparing top AI resume builders and job search tools. In the center, a luxury minimalist tech workspace with an ultra-thin laptop displaying an elegant split comparison screen between an automated resume ATS score analyzer with glowing emerald green metrics and a sleek Kanban job application tracker. Ambient moody studio lighting, warm soft shadows, brushed aluminum, matte black, and subtle emerald neon accents. In the corner: subtle clean branding 'khatwatuk.com'. Ultra-high resolution 8k render, photorealistic, premium editorial tech magazine aesthetic, no distorted text."
+      "role": "Featured Hero Banner - Teal vs Rezi AI Resume Builder Comparison 2026 (16:9 cinematic duel)",
+      "dalle_prompt": "A stunning cinematic 16:9 featured cover image comparing two AI resume builders: Teal and Rezi. In the center, two sleek futuristic dark glass tablets face each other in an epic duel. The LEFT tablet (representing Teal) glows with vibrant teal and emerald neon interface, displaying a colorful career tracking dashboard with job applications, interview stages, and a Chrome extension icon. The RIGHT tablet (representing Rezi) glows with sharp electric blue and cyan holographic data, displaying an ATS scanner analyzing a resume document with a glowing laser beam. Both tablets float majestically above a dark reflective obsidian floor in a deep navy futuristic digital space (#080c16). Soft volumetric rim lighting, glowing particles and data streams orbit around each tablet. Clean composition with central negative space between the two tablets for visual separation. Photorealistic 8k render, cinematic lighting, octane render. IMPORTANT: NO text, NO letters, NO numbers, NO words, NO Arabic text anywhere in the image. Keep it purely visual and conceptual."
     },
     {
       "position": "inline-1",
-      "role": "ATS Resume Optimization & Scanner (Inline Image)",
-      "dalle_prompt": "A sophisticated 3D visual concept representing ATS (Applicant Tracking System) resume optimization and artificial intelligence keyword matching. A luminous digital document is smoothly passing through a futuristic holographic laser scanner with vibrant green checkmarks, dynamic data tags, and high-match percentage indicators (98% Match). Cyber-clean aesthetic, soft depth of field, subtle cyan and emerald glows on a dark graphite background. Subtle branding 'khatwatuk.com' in the lower corner. Photorealistic 8k, cinematic tech design."
+      "role": "ATS Resume Scanner & Keyword Optimization Infographic (1000x520)",
+      "dalle_prompt": "A sophisticated cinematic 3D isometric visual concept representing modern ATS (Applicant Tracking System) resume optimization and keyword scanning technology. At the center, a futuristic transparent holographic digital resume document floats horizontally in a dark high-tech laboratory environment. A sharp glowing cyan laser beam systematically scans across the document surface, while vibrant emerald green data nodes, keyword tags, and glowing connection particles dynamically flow and pulse across the document. Around the floating resume, abstract geometric shapes in cyan, teal, and soft purple orbit gently, representing data parsing and AI analysis. A subtle reflective dark floor below, with soft cyan and teal neon backlighting creating depth. Ultra-clean modern tech aesthetic, high depth of field, sleek minimalism. Photorealistic 8k resolution, octane render, studio lighting. IMPORTANT: NO text, NO letters, NO numbers, NO words, NO Arabic text, NO watermarks, NO logos. Keep the scene purely conceptual and visual."
     }
-  ]
+  ],
+  "webhook_url": "https://signs-follows-specific-modify.trycloudflare.com/upload-job-image",
+  "instructions_for_bot": "Generate both images sequentially using DALL-E 3. Start with the 'main' (featured) image first, upload it, then say 'Continue' to generate the 'inline-1' image. Do NOT mix prompts between images."
 }
