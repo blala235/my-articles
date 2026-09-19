@@ -1,19 +1,29 @@
 {
-  "job_id": "teal-vs-kickresume-2026",
-  "title": "Teal vs Kickresume (2026): Which AI Resume Builder Is Better?",
-  "post_id": "6393857390686731609",
-  "images_count": 2,
+  "job_id": "teal-vs-rezi-2026-v2",
+  "title": "Teal vs Rezi (2026): Which AI Resume Builder Gets You Hired?",
+  "target_country": "United States",
+  "focus_keyword": "teal vs rezi",
+  "images_count": 4,
   "images": [
     {
       "position": "main",
-      "role": "Featured Hero Banner - Teal vs Kickresume AI Resume Builder Comparison 2026",
-      "dalle_prompt": "A stunning cinematic 16:9 featured cover image comparing two AI resume builders: Teal and Kickresume. In the center, two sleek futuristic dark glass tablets face each other in an epic visual showdown. The LEFT tablet glows with vibrant teal and emerald neon interface, displaying a colorful career tracking dashboard. The RIGHT tablet glows with sharp violet and electric purple holographic data, displaying a sleek resume builder interface with AI writing suggestions and glowing templates. Both tablets float above a dark reflective obsidian floor in deep navy space. Photorealistic 8k render, cinematic lighting. NO text, NO letters, NO numbers, NO words, NO Arabic text."
+      "role": "Featured Cover Image (16:9) - Editorial Tech Comparison",
+      "dalle_prompt": "A modern, cinematic 16:9 featured cover image comparing top AI resume builders 'Teal vs Rezi'. In the center, a luxury minimalist dark marble tech workspace with an ultra-thin laptop displaying an elegant split comparison screen: Teal's modern Kanban job search tracker on one side, and Rezi's high-tech ATS resume score engine on the other. Ambient moody studio lighting, warm soft shadows, brushed dark aluminum, matte graphite, and subtle emerald green neon accents. Elegant discreet branding in the lower right corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k render, premium editorial tech magazine aesthetic, clean composition, no distorted text."
     },
     {
       "position": "inline-1",
-      "role": "AI Resume Writing and Template Design Infographic (1000x520)",
-      "dalle_prompt": "A sophisticated 3D isometric visual concept representing AI resume writing technology. A futuristic holographic resume template floats in a dark studio with AI robotic arms made of purple light auto-writing sections. Abstract geometric shapes in violet, teal, and gold orbit gently. Photorealistic 8k resolution. NO text, NO letters, NO numbers, NO words, NO Arabic text."
+      "role": "Teal Chrome Extension & Kanban Job Tracker (Inline Image 1)",
+      "dalle_prompt": "A sophisticated 3D isometric concept representing automated job search workflow and tracking. Floating holographic Kanban boards with sleek dynamic cards smoothly progressing from 'Bookmarked' to 'Interview Scheduled' and 'Offer'. A luminous browser extension icon capturing live job postings from LinkedIn with glowing cyber-cyan data streams. Modern minimalist glass-morphism aesthetic, soft deep navy background, subtle cyan and teal glows. Subtle discreet branding in the bottom corner: 'khatwatuk.com | خطواتك'. 8k resolution, cinematic 3D render."
+    },
+    {
+      "position": "inline-2",
+      "role": "Rezi 23-Metric ATS Resume Scanner & Scoring (Inline Image 2)",
+      "dalle_prompt": "A high-tech 3D visual concept representing corporate ATS (Applicant Tracking System) algorithmic resume parsing. A pristine digital resume document is passing through a precision holographic laser scanner displaying verified green checkmarks and keyword analysis tags. In the foreground, a sleek circular holographic dial proudly displays a glowing emerald green metric: 'Rezi Score: 98/100'. Deep dark graphite background with sharp emerald and gold ambient accents. Subtle discreet branding in the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k, cinematic tech design."
+    },
+    {
+      "position": "inline-3",
+      "role": "Strategic Career Choice & ROI Decision Nexus (Inline Image 3)",
+      "dalle_prompt": "A cinematic 3D architectural representation of an executive career decision nexus. Two sleek, illuminated pathways made of frosted digital glass converge towards a luxury modern penthouse office with panoramic floor-to-ceiling glass windows overlooking a glowing twilight metropolis skyline. One pathway symbolizes automated workflow agility, the other algorithmic precision. Elegant champagne gold and deep sapphire blue lighting, luxury tech atmosphere. Subtle branding in the lower corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k, masterpiece."
     }
-  ],
-  "webhook_url": "https://signs-follows-specific-modify.trycloudflare.com/upload-job-image"
+  ]
 }
