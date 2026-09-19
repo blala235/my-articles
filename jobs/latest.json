@@ -6,15 +6,14 @@
   "images": [
     {
       "position": "main",
-      "role": "Featured Hero Banner - Teal vs Kickresume AI Resume Builder Comparison 2026 (16:9 cinematic duel)",
-      "dalle_prompt": "A stunning cinematic 16:9 featured cover image comparing two AI resume builders: Teal and Kickresume. In the center, two sleek futuristic dark glass tablets face each other in an epic visual showdown. The LEFT tablet (representing Teal) glows with vibrant teal and emerald neon interface, displaying a colorful career tracking dashboard with job applications, interview pipeline stages, and a Chrome extension badge. The RIGHT tablet (representing Kickresume) glows with sharp violet and electric purple holographic data, displaying a sleek resume builder interface with AI writing suggestions and glowing templates. Both tablets float majestically above a dark reflective obsidian floor in a deep navy futuristic digital space (#0a0e1a). Soft volumetric rim lighting, glowing particles and data streams orbit around each tablet like digital halos. Clean composition with central negative space between the two tablets for visual balance. Photorealistic 8k render, cinematic lighting, octane render. IMPORTANT: NO text, NO letters, NO numbers, NO words, NO Arabic text anywhere in the image. Keep it purely visual and conceptual."
+      "role": "Featured Hero Banner - Teal vs Kickresume AI Resume Builder Comparison 2026",
+      "dalle_prompt": "A stunning cinematic 16:9 featured cover image comparing two AI resume builders: Teal and Kickresume. In the center, two sleek futuristic dark glass tablets face each other in an epic visual showdown. The LEFT tablet glows with vibrant teal and emerald neon interface, displaying a colorful career tracking dashboard. The RIGHT tablet glows with sharp violet and electric purple holographic data, displaying a sleek resume builder interface with AI writing suggestions and glowing templates. Both tablets float above a dark reflective obsidian floor in deep navy space. Photorealistic 8k render, cinematic lighting. NO text, NO letters, NO numbers, NO words, NO Arabic text."
     },
     {
       "position": "inline-1",
-      "role": "AI Resume Writing & Template Design Infographic (1000x520)",
-      "dalle_prompt": "A sophisticated cinematic 3D isometric visual concept representing modern AI resume writing and template design technology. At the center, a futuristic holographic resume template floats in a dark high-tech creative studio. The template has three visible sections (header, experience, skills) with glowing text lines being auto-written by tiny AI robotic arms made of purple and violet light. Around the floating resume, abstract geometric shapes in violet, teal, and soft gold orbit gently, representing different design elements (typography, spacing, color schemes). A subtle reflective dark floor below, with soft purple and violet neon backlighting creating depth and luxury feel. Ultra-clean modern tech aesthetic, high depth of field, sleek minimalism. Photorealistic 8k resolution, octane render, studio lighting. IMPORTANT: NO text, NO letters, NO numbers, NO words, NO Arabic text, NO watermarks, NO logos. Keep the scene purely conceptual and visual."
+      "role": "AI Resume Writing and Template Design Infographic (1000x520)",
+      "dalle_prompt": "A sophisticated 3D isometric visual concept representing AI resume writing technology. A futuristic holographic resume template floats in a dark studio with AI robotic arms made of purple light auto-writing sections. Abstract geometric shapes in violet, teal, and gold orbit gently. Photorealistic 8k resolution. NO text, NO letters, NO numbers, NO words, NO Arabic text."
     }
   ],
-  "webhook_url": "https://signs-follows-specific-modify.trycloudflare.com/upload-job-image",
-  "instructions_for_bot": "Generate both images sequentially using DALL-E 3. Start with the 'main' (featured) image first, upload it, then say 'Continue' to generate the 'inline-1' image. Do NOT mix prompts between images."
+  "webhook_url": "https://signs-follows-specific-modify.trycloudflare.com/upload-job-image"
 }
