@@ -1,19 +1,19 @@
 {
-  "job_id": "linkedin-ads-investment-2026",
-  "title": "تكلفة الإعلان على لينكد إن 2026: دليل الاستثمار لا الإنفاق",
-  "article_id": "727711539619320569",
+  "job_id": "teal-vs-rezi-2026",
+  "title": "Teal vs Rezi (2026): Which AI Resume Builder Gets You Hired?",
+  "target_country": "United States",
+  "focus_keyword": "teal vs rezi",
   "images_count": 2,
   "images": [
     {
       "position": "main",
-      "role": "الغلاف الرئيسي للمقال (Featured Image - 16:9)",
-      "dalle_prompt": "A modern, cinematic 16:9 featured cover image for an executive B2B marketing guide on LinkedIn Ads cost and ROI. In the center, a futuristic floating 3D holographic command dashboard displaying live LinkedIn Campaign Manager metrics: 'ROAS: 4.8x' in radiant emerald green, 'Closed Enterprise Deals: $185,000', and glowing conversion charts. Beside the dashboard, a luxury 3D crystal and gold chess King piece stands majestically on a sleek reflective digital surface, symbolizing high-level strategic decision-making. Background is an executive glass penthouse overlooking a glowing modern metropolis skyline at dusk. Deep LinkedIn blue (#0077B5), cyber emerald, and warm champagne gold accents. Elegant modern Arabic typography prominently integrated at the top in glowing white and gold: 'تكلفة إعلانات لينكد إن 2026: استثمار ذكي لا إنفاق'. In the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k render, cinematic lighting."
+      "role": "Featured Cover Image (16:9)",
+      "dalle_prompt": "A modern, cinematic 16:9 featured cover image comparing top AI resume builders and job search tools. In the center, a luxury minimalist tech workspace with an ultra-thin laptop displaying an elegant split comparison screen between an automated resume ATS score analyzer with glowing emerald green metrics and a sleek Kanban job application tracker. Ambient moody studio lighting, warm soft shadows, brushed aluminum, matte black, and subtle emerald neon accents. In the corner: subtle clean branding 'khatwatuk.com'. Ultra-high resolution 8k render, photorealistic, premium editorial tech magazine aesthetic, no distorted text."
     },
     {
       "position": "inline-1",
-      "role": "الصورة الفرعية الأولى (استراتيجية صيد الحيتان والاستهداف الجراحي)",
-      "dalle_prompt": "A sophisticated 3D visual concept representing Account-Based Marketing (ABM) and Precision Targeting on LinkedIn. A high-tech digital targeting radar beam with precision crosshairs homing in on holographic 3D corporate executive profiles (CEOs, Founders, Directors) labeled with golden verification badges, while automatically filtering out unqualified leads through glowing dynamic data filters. A luminous golden conversion funnel channels high-value B2B deals directly into signed digital contracts. Ultra-clean tech aesthetic, deep navy blue, neon cyan, and brushed gold highlights. Premium Arabic typography overlay at the top: 'استراتيجية صيد الحيتان (ABM): استهداف صنّاع القرار'. Small subtitle: 'كيف تخفض تكلفة الاستحواذ وتضاعف الأرباح'. In the corner: 'khatwatuk.com | خطواتك'. 8k resolution, masterpiece."
+      "role": "ATS Resume Optimization & Scanner (Inline Image)",
+      "dalle_prompt": "A sophisticated 3D visual concept representing ATS (Applicant Tracking System) resume optimization and artificial intelligence keyword matching. A luminous digital document is smoothly passing through a futuristic holographic laser scanner with vibrant green checkmarks, dynamic data tags, and high-match percentage indicators (98% Match). Cyber-clean aesthetic, soft depth of field, subtle cyan and emerald glows on a dark graphite background. Subtle branding 'khatwatuk.com' in the lower corner. Photorealistic 8k, cinematic tech design."
     }
-  ],
-  "dalle_prompt": "A modern, cinematic 16:9 featured cover image for an executive B2B marketing guide on LinkedIn Ads cost and ROI. In the center, a futuristic floating 3D holographic command dashboard displaying live LinkedIn Campaign Manager metrics: 'ROAS: 4.8x' in radiant emerald green, 'Closed Enterprise Deals: $185,000', and glowing conversion charts. Beside the dashboard, a luxury 3D crystal and gold chess King piece stands majestically on a sleek reflective digital surface, symbolizing high-level strategic decision-making. Background is an executive glass penthouse overlooking a glowing modern metropolis skyline at dusk. Deep LinkedIn blue (#0077B5), cyber emerald, and warm champagne gold accents. Elegant modern Arabic typography prominently integrated at the top in glowing white and gold: 'تكلفة إعلانات لينكد إن 2026: استثمار ذكي لا إنفاق'. In the bottom corner: 'khatwatuk.com | خطواتك'. Photorealistic 8k render, cinematic lighting."
+  ]
 }
